@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleLib", "VehicleLib\VehicleLib.csproj", "{544047F9-38D6-4A6D-AC0F-C31A3629C044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleLib.Tests", "VehicleLib.Tests\VehicleLib.Tests.csproj", "{9DEB113E-BFB9-463F-9051-873D07647623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544047F9-38D6-4A6D-AC0F-C31A3629C044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544047F9-38D6-4A6D-AC0F-C31A3629C044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544047F9-38D6-4A6D-AC0F-C31A3629C044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544047F9-38D6-4A6D-AC0F-C31A3629C044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEB113E-BFB9-463F-9051-873D07647623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEB113E-BFB9-463F-9051-873D07647623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEB113E-BFB9-463F-9051-873D07647623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEB113E-BFB9-463F-9051-873D07647623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8D4859-AAFC-490E-A847-35C33CF692B1}
+	EndGlobalSection
+EndGlobal
